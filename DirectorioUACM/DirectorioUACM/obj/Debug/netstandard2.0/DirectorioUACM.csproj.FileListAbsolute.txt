@@ -1,0 +1,12 @@
+C:\GitHub\directorioUACM\DirectorioUACM\DirectorioUACM\bin\Debug\netstandard2.0\DirectorioUACM.deps.json
+C:\GitHub\directorioUACM\DirectorioUACM\DirectorioUACM\bin\Debug\netstandard2.0\DirectorioUACM.dll
+C:\GitHub\directorioUACM\DirectorioUACM\DirectorioUACM\bin\Debug\netstandard2.0\DirectorioUACM.pdb
+C:\GitHub\directorioUACM\DirectorioUACM\DirectorioUACM\obj\Debug\netstandard2.0\DirectorioUACM.csprojAssemblyReference.cache
+C:\GitHub\directorioUACM\DirectorioUACM\DirectorioUACM\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\GitHub\directorioUACM\DirectorioUACM\DirectorioUACM\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\GitHub\directorioUACM\DirectorioUACM\DirectorioUACM\obj\Debug\netstandard2.0\DirectorioUACM.csproj.CoreCompileInputs.cache
+C:\GitHub\directorioUACM\DirectorioUACM\DirectorioUACM\obj\Debug\netstandard2.0\DirectorioUACM.AssemblyInfoInputs.cache
+C:\GitHub\directorioUACM\DirectorioUACM\DirectorioUACM\obj\Debug\netstandard2.0\DirectorioUACM.AssemblyInfo.cs
+C:\GitHub\directorioUACM\DirectorioUACM\DirectorioUACM\obj\Debug\netstandard2.0\XamlC.stamp
+C:\GitHub\directorioUACM\DirectorioUACM\DirectorioUACM\obj\Debug\netstandard2.0\DirectorioUACM.dll
+C:\GitHub\directorioUACM\DirectorioUACM\DirectorioUACM\obj\Debug\netstandard2.0\DirectorioUACM.pdb
